@@ -268,7 +268,7 @@
 <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/iwzz.la_bib">
+<a href="https://instagram.com/l4bib._">
 <img src="https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
